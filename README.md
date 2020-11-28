@@ -1,0 +1,2 @@
+# ifanaticfire.github.io
+blog
